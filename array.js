@@ -32,5 +32,6 @@ document.write(data[i]+ " ");
    data.forEach(function(value,index,array){
 document.write(`${index} => ${value}<br/>`)
    });
+   
 }
 arrResult();
