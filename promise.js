@@ -10,7 +10,7 @@ reject("Error")
 
    }) 
 .then(()=>{console.log("Olumlu");})
-.catch((err)=>{ console.error("Çalışmadı");  })  
+.catch((err)=>{ console.error(err);  })  
 
 }
 promiseTutorials();
