@@ -1,3 +1,4 @@
+//map() bir diziyi alıp başka bir diziye dönüştürüyor.
 let arr =()=>{
     const numbers =[3,55,66,44,31,23,45];
 return numbers;
